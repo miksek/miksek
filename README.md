@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying IT and technology, specializing in network, cloud and it security!
+🌱 I’m currently studying IT and technology, specializing in network, cloud and IT security!
 
 
 # 💻 Tech Stack:
